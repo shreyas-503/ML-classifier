@@ -13,22 +13,22 @@ This project implements an end-to-end machine learning and deep learning system 
 # Dataset Structure
 
 Total Samples: 680
-label
-hungry        364
-discomfort     99
-belly_pain     91
-tired          69
-burping        57
+
+1.  hungry        364
+2.  discomfort     99
+3.  belly_pain     91
+4.  tired          69
+5.  burping        57
 
 
 # Model Performance Summary
 
-KNN 0.7206
-Decision Tree 0.8382
-Random Forest	0.98
-XGBoost	0.94
-SVM	0.91
-CNN	0.93
+1. KNN 0.7206
+2. Decision Tree 0.8382
+3. Random Forest	0.98
+4. XGBoost	0.94
+5. SVM	0.91
+6. CNN	0.93
 
 
 # Tech Stack
